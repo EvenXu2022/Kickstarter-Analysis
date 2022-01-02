@@ -39,4 +39,5 @@ This data set has the timeframe limitation which only presents history years fro
 - What are some other possible tables and/or graphs that we could create?
 
 One possible graph could be using a stacked bar graph to show all Parent Categories on Y-axis and Country on X-axis with Year as a filter which compares each country's total funding in a year or years total. it also compares the parent category funding within a country and across countries.
+
 The other possible analysis is to use a table to compare the total Backers count or average donation in each category(on columns) and Goal ranges on rows in the successful outcome (as a filter). this table will tells which category are most popular funding area people are willing to donate and how much they are willing to donate.
